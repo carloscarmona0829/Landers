@@ -1964,19 +1964,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlos.carmona\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos.carmona\\OneDrive - CORPORACION COUNTRY CLUB EJECUTIVOS\\Documentos\\Visual Studio 2022\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
       "projectName": "CatalogoAPI",
-      "projectPath": "C:\\Users\\carlos.carmona\\OneDrive - CORPORACION COUNTRY CLUB EJECUTIVOS\\Documentos\\Visual Studio 2022\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
-      "packagesPath": "C:\\Users\\carlos.carmona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.carmona\\OneDrive - CORPORACION COUNTRY CLUB EJECUTIVOS\\Documentos\\Visual Studio 2022\\CatalogoAPIApp\\CatalogoAPI\\obj\\",
+      "projectPath": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carlos.carmona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2033,7 +2033,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

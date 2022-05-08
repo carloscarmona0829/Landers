@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\bin\Release\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Release\libEntidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Release\libEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Release\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Release\libEntidades.pdb

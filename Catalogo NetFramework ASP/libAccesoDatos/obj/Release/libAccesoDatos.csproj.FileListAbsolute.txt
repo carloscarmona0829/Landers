@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libConexion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Release\libAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Release\libAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Release\libAccesoDatos.csproj.CopyComplete
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Release\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Release\libAccesoDatos.pdb

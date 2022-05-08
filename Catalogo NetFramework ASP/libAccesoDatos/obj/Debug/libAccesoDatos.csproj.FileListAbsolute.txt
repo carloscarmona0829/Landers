@@ -1,0 +1,24 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libConexion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.CopyComplete
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libConexion.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libConexion.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\obj\Debug\libAccesoDatos.csproj.CopyComplete
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\obj\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libAccesoDatos\obj\Debug\libAccesoDatos.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\bin\Release\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\bin\Release\libConexion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\obj\Release\libConexion.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\obj\Release\libConexion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\obj\Release\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libConexion\obj\Release\libConexion.pdb

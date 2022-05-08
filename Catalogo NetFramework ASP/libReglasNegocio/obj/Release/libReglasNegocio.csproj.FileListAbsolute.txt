@@ -1,0 +1,16 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libReglasNegocio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Release\libConexion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Release\libReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Release\libReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Release\libReglasNegocio.csproj.CopyComplete
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Release\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Release\libReglasNegocio.pdb

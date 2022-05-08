@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Debug\libEntidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Debug\libEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libEntidades\obj\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.pdb

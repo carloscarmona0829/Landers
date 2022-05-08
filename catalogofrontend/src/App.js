@@ -14,6 +14,8 @@ state={
   data:[],
   modalInsertar: false,
   modalEliminar: false,
+  modalImagen: false,
+  urlImagen: "",
   form:{
     id:"",
     nombre:"",
@@ -44,14 +46,14 @@ peticionPost=async()=>{
 }
 
 peticionPut=()=>{
-  axios.put(url+this.state.form.id, this.state.form).then(response=>{
+  axios.put(`${url}/${this.state.form.id}`, this.state.form).then(response=>{
     this.modalInsertar();
     this.peticionGet();
   })
 }
 
 peticionDelete=()=>{
-  axios.delete(url+this.state.form.id).then(response=>{
+  axios.delete(`${url}/${this.state.form.id}`).then(response=>{
     this.setState({modalEliminar: false});
     this.peticionGet();
   })
@@ -87,6 +89,10 @@ await this.setState({
 console.log(this.state.form);
 }
 
+onClickImagen(urlImagen){
+  this.setState(prev => ({...prev, urlImagen, modalImagen: true}))
+}
+
   componentDidMount() {
     this.peticionGet();
   }  
@@ -101,11 +107,11 @@ console.log(this.state.form);
     <table className="table ">
       <thead>
       <tr>
+            <th/>
             <th>ID</th>
             <th>Nombre</th>
             <th>Descripción</th>
             <th>Categoría</th>
-            <th>Imagen</th>
             <th>Stock</th>
             <th>Precio</th>
             <th>Acciones</th>
@@ -115,11 +121,11 @@ console.log(this.state.form);
         {this.state.data.map(producto=>{
           return(
             <tr>
+              <td><img style={{ width: 50, height: 50, borderRadius: 50 }} onClick={()=>this.onClickImagen(producto.imagen)} src={producto.imagen} /> </td>
           <td>{producto.id}</td>
             <td>{producto.nombre}</td>
             <td>{producto.descripcion}</td>
             <td>{producto.categoria}</td>
-            <td>{producto.imagen}</td>
             <td>{producto.stock}</td>
             <td>{producto.precio}</td>
           <td>
@@ -186,6 +192,17 @@ console.log(this.state.form);
               <button className="btn btn-secundary" onClick={()=>this.setState({modalEliminar: false})}>No</button>
             </ModalFooter>
           </Modal>
+
+
+          <Modal isOpen={this.state.modalImagen}>
+            <ModalBody>
+               <img src={this.state.urlImagen} />
+            </ModalBody>
+            <ModalFooter>
+              <button className="btn btn-secundary" onClick={()=>this.setState(prev => ({...prev, modalImagen: false}))}>Cerrar</button>
+            </ModalFooter>
+          </Modal>
+
   </div>
 
   );

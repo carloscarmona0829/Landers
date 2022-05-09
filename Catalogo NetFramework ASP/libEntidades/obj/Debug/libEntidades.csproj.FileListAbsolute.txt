@@ -10,3 +10,9 @@ C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.dll
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\bin\Debug\libEntidades.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\bin\Debug\libEntidades.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libEntidades\obj\Debug\libEntidades.pdb

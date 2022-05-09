@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj": {}
+    "C:\\Carlos Carmona\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj": {
+    "C:\\Carlos Carmona\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
+        "projectUniqueName": "C:\\Carlos Carmona\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
         "projectName": "CatalogoAPI",
-        "projectPath": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Documents\\Landers\\CatalogoAPIApp\\CatalogoAPI\\obj\\",
+        "projectPath": "C:\\Carlos Carmona\\Landers\\CatalogoAPIApp\\CatalogoAPI\\CatalogoAPI.csproj",
+        "packagesPath": "C:\\Users\\carlos.carmona\\.nuget\\packages\\",
+        "outputPath": "C:\\Carlos Carmona\\Landers\\CatalogoAPIApp\\CatalogoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos.carmona\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

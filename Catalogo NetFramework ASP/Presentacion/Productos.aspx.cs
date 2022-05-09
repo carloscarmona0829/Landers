@@ -61,7 +61,7 @@ namespace Matricula_de_Proyectos
                 entidadProducto.Nombre = txtNombre.Text;
                 entidadProducto.Descripcion = txtDescripcion.Text;
                 entidadProducto.Id_Categoria = ddlCategoria.SelectedValue;
-                //entidadProducto.Imagen =;
+                entidadProducto.Imagen = txtImagen.Text;
                 entidadProducto.Stock = Convert.ToInt32(txtStock.Text);
                 entidadProducto.Precio = Convert.ToInt32(txtPrecio.Text);
                 entidadProducto.Estado = Convert.ToInt32(ddlId_Estado.SelectedValue);
@@ -130,9 +130,10 @@ namespace Matricula_de_Proyectos
 
         protected void btnGuardar_Click(object sender, EventArgs e)
         {
-            Guardar();
-            CargarGrid();
-
+            //Guardar();
+            //CargarGrid();
+            //mpeSalidaActivos.Show();
+            System.Web.UI.ScriptManager.RegisterStartupScript(this, this.GetType(), "myModal", "$('#exampleModalCenter').modal();", true);
         }
 
         #endregion

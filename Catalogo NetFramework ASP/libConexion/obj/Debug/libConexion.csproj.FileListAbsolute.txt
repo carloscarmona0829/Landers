@@ -10,3 +10,9 @@ C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libConexion\o
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.dll
 C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\bin\Debug\libConexion.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\bin\Debug\libConexion.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libConexion\obj\Debug\libConexion.pdb

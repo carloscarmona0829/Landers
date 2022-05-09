@@ -1,6 +1,5 @@
 ﻿using CatalogoAPI.Models;
 using Microsoft.EntityFrameworkCore;
-
 namespace CatalogoAPI.Context
 {
     public class AppDbContext: DbContext
@@ -9,7 +8,11 @@ namespace CatalogoAPI.Context
         {
 
         }
+        public DbSet<Productos> Productos { get; set; }
 
-        public DbSet<Productos> Productos { get; set; } 
+        //public Task<List<Value>> GetAll()
+        //{
+        //    return true;
+        //}
     }
 }

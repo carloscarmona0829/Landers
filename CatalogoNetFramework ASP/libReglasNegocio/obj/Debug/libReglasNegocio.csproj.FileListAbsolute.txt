@@ -1,0 +1,48 @@
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libReglasNegocio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Debug\libReglasNegocio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libConexion.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\libConexion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\Matricula de Proyectos\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CopyComplete
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libReglasNegocio.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libAccesoDatos.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libEntidades.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libConexion.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libAccesoDatos.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libEntidades.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libConexion.pdb
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CopyComplete
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.dll
+C:\Users\Administrador\Documents\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libReglasNegocio.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libReglasNegocio.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libAccesoDatos.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libEntidades.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libConexion.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libAccesoDatos.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libEntidades.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\bin\Debug\libConexion.pdb
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.csproj.CopyComplete
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.dll
+C:\Carlos Carmona\Landers\Catalogo NetFramework ASP\libReglasNegocio\obj\Debug\libReglasNegocio.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "caebc610-aac3-4f1a-9849-9d3e07d95173": {
+      "ProjectGuid": "caebc610-aac3-4f1a-9849-9d3e07d95173",
+      "DisplayName": "libEntidades",
+      "ColorIndex": 0
+    },
+    "b1296feb-d6c3-4672-a75d-ccd69dea79d7": {
+      "ProjectGuid": "b1296feb-d6c3-4672-a75d-ccd69dea79d7",
+      "DisplayName": "libAccesoDatos",
+      "ColorIndex": 1
+    },
+    "5ba81bbb-fb87-4363-80d2-80bf3881c097": {
+      "ProjectGuid": "5ba81bbb-fb87-4363-80d2-80bf3881c097",
+      "DisplayName": "libReglasNegocio",
+      "ColorIndex": 2
+    },
+    "bb694cae-5e96-4f40-87db-33d3805e200c": {
+      "ProjectGuid": "bb694cae-5e96-4f40-87db-33d3805e200c",
+      "DisplayName": "Presentacion",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
